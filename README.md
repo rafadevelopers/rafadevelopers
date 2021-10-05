@@ -14,7 +14,7 @@
   <img align="center" alt="Rafa-BOOTSTRAP" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" />
   <img align="center" alt="Rafa-MYSQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-plain-wordmark.svg" />
   <img align="center" alt="Rafa-GIT" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
-  <img align="right" alt="Eli-Link" height="120" src="https://c.tenor.com/VNQFhH8IIFQAAAAM/link-thumbs-up.gif">
+ 
   
   
  
